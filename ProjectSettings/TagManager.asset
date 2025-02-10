@@ -5,7 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - PickUp
-  - Enemy
+  - Rampa_Impulso
+  - Enemy_1
+  - Enemy_2
+  - Valla_Level_1
+  - Meta
+  - Valla_Level_2
   layers:
   - Default
   - TransparentFX

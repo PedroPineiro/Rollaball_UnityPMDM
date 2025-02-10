@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Workspace\\Programs\\Unity\\Projects\\Rollaball\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{465A12E5-0917-F68F-5DAA-36E0DFB33C2E}|Assembly-CSharp.csproj|d:\\workspace\\programs\\unity\\projects\\rollaball\\assets\\scripts\\firstpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465A12E5-0917-F68F-5DAA-36E0DFB33C2E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firstpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{465A12E5-0917-F68F-5DAA-36E0DFB33C2E}|Assembly-CSharp.csproj|D:\\Workspace\\Programs\\Unity\\Projects\\Rollaball\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{465A12E5-0917-F68F-5DAA-36E0DFB33C2E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +15,16 @@
       "RelativeMoniker": "D:0:0:{465A12E5-0917-F68F-5DAA-36E0DFB33C2E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{465A12E5-0917-F68F-5DAA-36E0DFB33C2E}|Assembly-CSharp.csproj|d:\\workspace\\programs\\unity\\projects\\rollaball\\assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{465A12E5-0917-F68F-5DAA-36E0DFB33C2E}|Assembly-CSharp.csproj|D:\\Workspace\\Programs\\Unity\\Projects\\Rollaball\\assets\\scripts\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465A12E5-0917-F68F-5DAA-36E0DFB33C2E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465A12E5-0917-F68F-5DAA-36E0DFB33C2E}|Assembly-CSharp.csproj|D:\\Workspace\\Programs\\Unity\\Projects\\Rollaball\\assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{465A12E5-0917-F68F-5DAA-36E0DFB33C2E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\Programs\\Unity\\Projects\\Rollaball\\Library\\PackageCache\\com.unity.collab-proxy@2.6.0\\Editor\\ViewSwitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.collab-proxy@2.6.0\\Editor\\ViewSwitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{465A12E5-0917-F68F-5DAA-36E0DFB33C2E}|Assembly-CSharp.csproj|D:\\Workspace\\Programs\\Unity\\Projects\\Rollaball\\assets\\scripts\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{465A12E5-0917-F68F-5DAA-36E0DFB33C2E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B007A2B-D9AD-89BB-C7D4-0F479FDC148F}|Unity.PlasticSCM.Editor.csproj|D:\\Workspace\\Programs\\Unity\\Projects\\Rollaball\\library\\packagecache\\com.unity.collab-proxy@2.6.0\\editor\\viewswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B007A2B-D9AD-89BB-C7D4-0F479FDC148F}|Unity.PlasticSCM.Editor.csproj|solutionrelative:library\\packagecache\\com.unity.collab-proxy@2.6.0\\editor\\viewswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,23 +34,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "FirstPersonCamera.cs",
+              "DocumentMoniker": "D:\\Workspace\\Programs\\Unity\\Projects\\Rollaball\\Assets\\Scripts\\FirstPersonCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FirstPersonCamera.cs",
+              "ToolTip": "D:\\Workspace\\Programs\\Unity\\Projects\\Rollaball\\Assets\\Scripts\\FirstPersonCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FirstPersonCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:46:09.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ViewSwitcher.cs",
               "DocumentMoniker": "D:\\Workspace\\Programs\\Unity\\Projects\\Rollaball\\Library\\PackageCache\\com.unity.collab-proxy@2.6.0\\Editor\\ViewSwitcher.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.collab-proxy@2.6.0\\Editor\\ViewSwitcher.cs",
               "ToolTip": "D:\\Workspace\\Programs\\Unity\\Projects\\Rollaball\\Library\\PackageCache\\com.unity.collab-proxy@2.6.0\\Editor\\ViewSwitcher.cs",
               "RelativeToolTip": "Library\\PackageCache\\com.unity.collab-proxy@2.6.0\\Editor\\ViewSwitcher.cs",
-              "ViewState": "AgIAALcAAAAAAAAAAAAawMwAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAACEEAAAAAAAAAAAqwO0EAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T17:12:49.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "EnemyMovement.cs",
               "DocumentMoniker": "D:\\Workspace\\Programs\\Unity\\Projects\\Rollaball\\Assets\\Scripts\\EnemyMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMovement.cs",
@@ -54,24 +71,23 @@
               "RelativeToolTip": "Assets\\Scripts\\EnemyMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T17:46:12.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T17:46:12.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Rotator.cs",
               "DocumentMoniker": "D:\\Workspace\\Programs\\Unity\\Projects\\Rollaball\\Assets\\Scripts\\Rotator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Rotator.cs",
               "ToolTip": "D:\\Workspace\\Programs\\Unity\\Projects\\Rollaball\\Assets\\Scripts\\Rotator.cs",
               "RelativeToolTip": "Assets\\Scripts\\Rotator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T16:35:34.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CameraController.cs",
               "DocumentMoniker": "D:\\Workspace\\Programs\\Unity\\Projects\\Rollaball\\Assets\\Scripts\\CameraController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
@@ -79,21 +95,19 @@
               "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T16:14:43.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T16:14:43.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\Workspace\\Programs\\Unity\\Projects\\Rollaball\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "D:\\Workspace\\Programs\\Unity\\Projects\\Rollaball\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwFcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T15:17:50.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T15:17:50.924Z"
             }
           ]
         }

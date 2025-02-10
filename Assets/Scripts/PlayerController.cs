@@ -75,6 +75,14 @@ public class PlayerController : MonoBehaviour
             // Update the count display.
             SetCountText();
         }
+
+        if (other.gameObject.CompareTag("Meta"))
+        {
+            winTextObject.gameObject.SetActive(true);
+            winTextObject.GetComponent<TextMeshProUGUI>().text = "You Win!";
+            Destroy(GameObject.FindGameObjectWithTag("Player"));
+            
+        }
     }
 
     // Function to update the displayed count of "PickUp" objects collected.
@@ -86,17 +94,25 @@ public class PlayerController : MonoBehaviour
         // Check if the count has reached or exceeded the win condition.
         if (count >= 10)
         {
-            // Display the win text.
-            winTextObject.SetActive(true);
+            // Destroy the enemy GameObject.
+            Destroy(GameObject.FindGameObjectWithTag("Enemy_1"));
+
+            // Destroy the Valla_Level_1 GameObject.
+            Destroy(GameObject.FindGameObjectWithTag("Valla_Level_1"));
+        }
+        if (count >= 20)
+        {
+            // Destroy the Valla_Level_2 GameObject.
+            Destroy(GameObject.FindGameObjectWithTag("Valla_Level_2"));
 
             // Destroy the enemy GameObject.
-            Destroy(GameObject.FindGameObjectWithTag("Enemy"));
+            Destroy(GameObject.FindGameObjectWithTag("Enemy_2"));
         }
     }
 
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.CompareTag("Enemy"))
+        if (collision.gameObject.CompareTag("Enemy_1")||collision.gameObject.CompareTag("Enemy_2"))
         {
             // Destroy the current object
             Destroy(gameObject);
